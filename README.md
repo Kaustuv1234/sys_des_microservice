@@ -1,5 +1,7 @@
 # sys_des_microservice
 
+![alt text](https://github.com/Kaustuv1234/sys_des_microservice/blob/main/diagram.png?raw=true)
+
 tutorial: https://www.youtube.com/watch?v=hmkF77F9TLw&t=435s
 
 for server.py: pip install jedi pylint pyjwt flask 
