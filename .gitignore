@@ -1,0 +1,7 @@
+# Python virtual environment
+python/src/auth/venv
+
+# Python virtual environment
+.DS_Store
+python/.DS_Store
+python/src/auth/.DS_Store
