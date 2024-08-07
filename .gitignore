@@ -1,5 +1,6 @@
 # Python virtual environment
 python/src/auth/venv
+python/src/gateway/venv
 
 # Python virtual environment
 .DS_Store

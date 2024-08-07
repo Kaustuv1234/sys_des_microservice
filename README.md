@@ -34,3 +34,11 @@ Note: in manifests we are using the image ```sweasytech/auth``` not the image we
 after writing manifest files - ```kubectl apply -f ./```, then ```k9s``` to see 2 instances running
 
 inside k9s press enter on a container and then 's' to use the shell inside the container
+
+go through kubernetes documentation to understand the manifest files.
+
+create gateway/server.py
+
+```pip install pika flask pyMongo Flask-PyMongo```
+
+for auth_svc/access.py - ```pip install requests```
