@@ -25,3 +25,6 @@ open auth db - ```use auth;```
 see tables - ```show tables;```
 
 check user table - ```describe user;``` and then ```select * from user;```
+
+
+after writing Dockerfile - ```docker build -t auth_latest .```
