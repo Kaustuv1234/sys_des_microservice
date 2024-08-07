@@ -28,3 +28,9 @@ check user table - ```describe user;``` and then ```select * from user;```
 
 
 after writing Dockerfile - ```docker build -t auth_latest .```
+
+Note: in manifests we are using the image ```sweasytech/auth``` not the image we created
+
+after writing manifest files - ```kubectl apply -f ./```, then ```k9s``` to see 2 instances running
+
+inside k9s press enter on a container and then 's' to use the shell inside the container
